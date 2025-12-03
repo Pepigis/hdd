@@ -1,5 +1,5 @@
 # Rozebraný pevný disk (HDD) – části a jejich funkce
-Třída: … | Autor: … | Datum: …
+Třída: T4A | Autor: Josef Černý | Datum: 03.12.2025
 
 ## Úvod
 Cílem je stručně popsat hlavní části pevného disku (HDD), ukázat jejich umístění na fotografiích a vysvětlit základní funkci každé části.
